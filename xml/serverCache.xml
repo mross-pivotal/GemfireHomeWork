@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE cache PUBLIC
+    "-//GemStone Systems, Inc.//GemFire Declarative Caching 7.0//EN"
+    "http://www.gemstone.com/dtd/cache7_0.dtd">
+
+<cache>
+<!-- 	<pdx read-serialized="true">
+		<pdx-serializer>
+			<class-name>com.gemstone.gemfire.pdx.ReflectionBasedAutoSerializer</class-name>
+		</pdx-serializer>
+	</pdx> -->
+	<region name="Users">
+		<region-attributes refid="PARTITION_REDUNDANT">
+			<partition-attributes total-num-buckets="10" />
+		</region-attributes>
+	</region>
+	<region name="Posts">
+		<region-attributes refid="PARTITION_REDUNDANT">
+			<partition-attributes total-num-buckets="10" />
+		</region-attributes>
+	</region>
+	<function-service>
+		<function>
+			<class-name>com.gopivotal.bookshop.buslogic.GetAllPostsFunction</class-name>
+		</function>
+	</function-service>
+</cache>

@@ -1,0 +1,26 @@
+
+[warning 2015/07/15 14:25:24.631 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2845:loner):52935:eebee792:ClientWorker(version:GFE 8.0),connection=2. It had been 66,036 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:25:24.636 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2830:loner):52421:6e15de92:ClientWorker(version:GFE 8.0),connection=2. It had been 69,091 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:25:24.637 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2834:loner):52636:43a7e092:ClientWorker(version:GFE 8.0),connection=2. It had been 70,713 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:25:24.638 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2833:loner):52616:bc21e092:ClientWorker(version:GFE 8.0),connection=2. It had been 64,875 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:25:24.639 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2829:loner):52375:a213db92:ClientWorker(version:GFE 8.0),connection=2. It had been 66,096 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:25:24.640 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2840:loner):52898:d411e792:ClientWorker(version:GFE 8.0),connection=2. It had been 70,315 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:47:21.066 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2845:loner):52935:eebee792:ClientWorker(version:GFE 8.0),connection=2. It had been 420,794 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:47:21.069 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2829:loner):52375:a213db92:ClientWorker(version:GFE 8.0),connection=2. It had been 420,824 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:47:21.070 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2834:loner):52636:43a7e092:ClientWorker(version:GFE 8.0),connection=2. It had been 425,470 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:47:21.070 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2830:loner):52421:6e15de92:ClientWorker(version:GFE 8.0),connection=2. It had been 423,832 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 14:47:21.071 EDT twitterserver2 <ClientHealthMonitor Thread> tid=0x3e] Monitoring client with member id identity(pivotal-guest-6-59(ClientWorker:2840:loner):52898:d411e792:ClientWorker(version:GFE 8.0),connection=2. It had been 425,090 ms since the latest heartbeat. Max interval is 60,000. Terminated client.
+
+[warning 2015/07/15 15:47:53.257 EDT twitterserver2 <ServerConnection on port 50716 Thread 15> tid=0x6e] Server connection from [identity(pivotal-guest-6-59(ClientWorker:3581:loner):57763:b2384293:ClientWorker(version:GFE 8.0),connection=2; port=57763]: The function is not registered for function id com.gopivotal.bookshop.buslogic.GetAllPostsFunction
+
+[warning 2015/07/15 15:50:14.363 EDT twitterserver2 <ServerConnection on port 50716 Thread 15> tid=0x6e] Server connection from [identity(pivotal-guest-6-59(ClientWorker:3582:loner):57900:7a6f4493:ClientWorker(version:GFE 8.0),connection=2; port=57900]: The function is not registered for function id com.gopivotal.bookshop.buslogic.GetAllPostsFunction

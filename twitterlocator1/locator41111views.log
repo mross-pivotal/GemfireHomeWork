@@ -1,0 +1,22 @@
+
+[info 2015/07/15 10:50:39.763 EDT <main> tid=0x1] Log opened with new distributed system connection.  View(creator=pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, viewId=0, [pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301])
+
+[info 2015/07/15 10:51:34.986 EDT <DM-MemberEventInvoker> tid=0x1f] A new member joined: pivotal-guest-6-59(twitterserver1:1658)<v1>:14666.  View(creator=pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, viewId=1, [pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, pivotal-guest-6-59(twitterserver1:1658)<v1>:14666])
+
+[info 2015/07/15 10:52:44.835 EDT <DM-MemberEventInvoker> tid=0x1f] A new member joined: pivotal-guest-6-59(twitterserver1:1663)<v4>:12429.  View(creator=pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, viewId=4, [pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, pivotal-guest-6-59(twitterserver1:1663)<v4>:12429])
+
+[info 2015/07/15 10:53:08.769 EDT <DM-MemberEventInvoker> tid=0x1f] A new member joined: pivotal-guest-6-59(twitterserver1:1664)<v6>:57763.  View(creator=pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, viewId=6, [pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, pivotal-guest-6-59(twitterserver1:1664)<v6>:57763])
+
+[info 2015/07/15 10:53:09.573 EDT <Pooled High Priority Message Processor 1> tid=0x75] server summary: 1 cache servers with 0 client connections/current cache servers : pivotal-guest-6-59(twitterserver1:1664)<v6>:57763 
+
+[info 2015/07/15 11:17:34.606 EDT <DM-MemberEventInvoker> tid=0x1f] A new member joined: pivotal-guest-6-59(twitterserver2:1905)<v9>:34902.  View(creator=pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, viewId=9, [pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, pivotal-guest-6-59(twitterserver2:1905)<v9>:34902])
+
+[info 2015/07/15 11:17:35.510 EDT <Pooled High Priority Message Processor 1> tid=0x75] server summary: 1 cache servers with 0 client connections/current cache servers : pivotal-guest-6-59(twitterserver2:1905)<v9>:34902 
+
+[info 2015/07/15 11:17:35.625 EDT <Pooled High Priority Message Processor 1> tid=0x75] server summary: 2 cache servers with 0 client connections/current cache servers : pivotal-guest-6-59(twitterserver2:1905)<v9>:34902 pivotal-guest-6-59(twitterserver2:1905)<v9>:34902 
+
+[info 2015/07/15 15:54:24.124 EDT <DM-MemberEventInvoker> tid=0x1f] A new member joined: pivotal-guest-6-59(twitterserver2:3604)<v12>:10043.  View(creator=pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, viewId=12, [pivotal-guest-6-59(twitterlocator1:1612:locator)<v0>:41301, pivotal-guest-6-59(twitterserver2:3604)<v12>:10043])
+
+[info 2015/07/15 15:54:25.013 EDT <Pooled High Priority Message Processor 1> tid=0x75] server summary: 1 cache servers with 0 client connections/current cache servers : pivotal-guest-6-59(twitterserver2:3604)<v12>:10043 
+
+[info 2015/07/15 15:54:25.126 EDT <Pooled High Priority Message Processor 1> tid=0x75] server summary: 2 cache servers with 0 client connections/current cache servers : pivotal-guest-6-59(twitterserver2:3604)<v12>:10043 pivotal-guest-6-59(twitterserver2:3604)<v12>:10043 

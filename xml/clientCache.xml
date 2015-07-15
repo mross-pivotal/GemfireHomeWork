@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE client-cache PUBLIC
+"-//GemStone Systems, Inc.//GemFire Declarative Caching 7.0//EN"
+"http://www.gemstone.com/dtd/cache7_0.dtd">
+<client-cache>
+	<pool name="client" >
+		<locator host="localhost" port="41111" />
+	</pool>
+
+<!--      <pdx >
+		<pdx-serializer >
+			<class-name >com.gemstone.gemfire.pdx.ReflectionBasedAutoSerializer</class-name>
+			<parameter name="classes">
+				<string>com.gopivotal.bookshop.domain.User,com.gopivotal.bookshop.domain.Post</string>
+			</parameter>
+			<parameter name="check-portability"><string>true</string></parameter>
+		</pdx-serializer>
+	</pdx>
+			
+ -->
+	
+	
+	<region name="Users">
+		<region-attributes  refid="PROXY"/>
+	</region>
+	<region name="Posts">
+		<region-attributes  refid="PROXY"/>
+	</region>
+</client-cache>
